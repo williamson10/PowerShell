@@ -94,8 +94,6 @@ $cbx_hostname.Width = 160
 $cbx_hostname.Height = 30
 $cbx_hostname.location = new-object system.drawing.point(15,45)
 $cbx_hostname.Font = "Microsoft Sans Serif,10"
-$cbx_hostname.Items.Add("FPCWL12")
-$cbx_hostname.Items.Add("C2DBYQ1")
 $cbx_hostname.Add_SelectedValueChanged({
 	
 })
